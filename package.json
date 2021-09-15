@@ -1,6 +1,6 @@
 {
   "name": "notesgen-validation",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "All type of form validations on a website",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,12 @@
   },
   "keywords": [
     "validations",
-    "form-validations"
+    "form validation",
+    "image validation",
+    "size validation",
+    "url validation",
+    "phone validation",
+    "email validation"
   ],
   "author": "Aabir Hussain",
   "license": "ISC"
