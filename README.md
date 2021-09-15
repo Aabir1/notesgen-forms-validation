@@ -1,9 +1,21 @@
-# Notesgen Helper
+# Notesgen Form Helper
 
 this package contain all type of validations
 
+# GITHUB URL
+```
+https://github.com/Aabir1/notesgen-forms-validation
+
+```
+
+# Installation
+```
+npm i notesgen-validation
+```
+
 # Usage
 ```
+
 import NotesgenValidation from 'notesgen-validation';
 
 // simple usage
@@ -50,5 +62,6 @@ submitForm = async () => {
 }
 ```
 
-#About Us
-Ift is a basic validator if any validator is missing, please raise an issue.
+# About Us
+
+It is a basic validator if any validator is missing, please raise an issue at  https://github.com/Aabir1/notesgen-forms-validation/issues.
