@@ -1,0 +1,14 @@
+{
+  "name": "notesgen-validation",
+  "version": "1.1.4",
+  "description": "All type of form validations on a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validations"
+  ],
+  "author": "Aabir Hussain",
+  "license": "ISC"
+}
