@@ -2,11 +2,11 @@
 
 this package contain all type of validations
 
-# GITHUB URL
-```
+# Github Url
+
 https://github.com/Aabir1/notesgen-forms-validation
 
-```
+
 
 # Installation
 ```
